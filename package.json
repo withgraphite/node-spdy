@@ -36,7 +36,7 @@
   "dependencies": {
     "debug": "^4.1.0",
     "handle-thing": "^2.0.0",
-    "http-deceiver": "^1.2.7",
+    "http-deceiver": "https://github.com/withgraphite/http-deceiver#node-v12-deprecation-fix",
     "select-hose": "^2.0.0",
     "spdy-transport": "^3.0.0"
   },
